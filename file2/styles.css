@@ -1,0 +1,47 @@
+body {
+	background-image:url('img/aoe.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+h1 {
+	color: blue;
+	font-family:courier;
+	font-size:160%;
+	background-color:lightsalmon;
+}
+h2{
+	padding:50px;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: lime;
+  background-color: transparent;
+  text-decoration: none;
+}
+table, th, td{
+	color:Black;
+	font-size:50px;
+	border-radius: 10px;
+}
+th, td{
+	border: 1px double black;
+}
+th{
+	background-color: IndianRed;
+}
+th, td {
+	border: 1px solid black;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 50px;
+}
