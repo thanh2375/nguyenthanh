@@ -34,7 +34,7 @@ img {
 table, th, td{
 	color:Black;
 	font-size:50px;
-	border-collapse: collapse;
+	border-radius: 10px;
 }
 th, td{
 	border: 1px double black;
